@@ -23,7 +23,6 @@ npx skills add baotoq/agent-skills
 | **csharp-developer** | C# with .NET 8+, ASP.NET Core APIs, Blazor, EF Core, minimal APIs, CQRS with MediatR |
 | **dotnet-aspire** | .NET Aspire cloud-native orchestration, service discovery, AppHost and ServiceDefaults |
 | **dotnet-core-expert** | .NET 8 with minimal APIs, clean architecture, cloud-native microservices, JWT auth, AOT |
-| **dotnet-ddd** | Domain-Driven Design patterns — aggregates, entities, value objects, domain events, bounded contexts |
 | **efcore-patterns** | Entity Framework Core best practices — NoTracking, query splitting, migration management |
 | **kubernetes-specialist** | Kubernetes cluster management — Helm charts, RBAC, NetworkPolicies, security hardening |
 | **microservices-architect** | Distributed systems design — service boundaries, saga patterns, event sourcing, service mesh |
