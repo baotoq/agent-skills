@@ -28,6 +28,8 @@ npx skills add baotoq/agent-skills
 | **kubernetes-specialist** | Kubernetes cluster management — Helm charts, RBAC, NetworkPolicies, security hardening |
 | **microservices-architect** | Distributed systems design — service boundaries, saga patterns, event sourcing, service mesh |
 | **nextjs-developer** | Next.js 14+ with App Router, server components, server actions, SEO, deployment |
+| **nuxt** | Nuxt 4+ server routes, file-based routing, middleware, composables, h3/nitro patterns |
+| **nuxt-ui** | @nuxt/ui v4 components — Button, Modal, Form, Table, Tailwind Variants theming |
 | **react-expert** | React 18+ architecture, hooks patterns, Server Components, React 19 features |
 | **risk-management** | Position sizing and stop-loss rules learned from competition outcomes |
 | **telegram-bot-builder** | Telegram bot architecture, Bot API, keyboards, monetization, scaling |
