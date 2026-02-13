@@ -1,6 +1,15 @@
 ---
 name: prompt-engineering-patterns
 description: Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability in production. Use when optimizing prompts, improving LLM outputs, or designing production prompt templates.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: prompt engineering, LLM, prompt optimization, prompt templates, AI prompts
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: prompt-lookup
 ---
 
 # Prompt Engineering Patterns

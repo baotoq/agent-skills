@@ -1,6 +1,15 @@
 ---
 name: saga-orchestration
 description: Implement saga patterns for distributed transactions and cross-aggregate workflows. Use when coordinating multi-step business processes, handling compensating transactions, or managing long-running workflows.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: saga pattern, distributed transactions, compensating transactions, long-running workflows, orchestration
+  role: architect
+  scope: system-design
+  output-format: code
+  related-skills: event-sourcing-architect, cqrs-implementation, microservices-patterns
 ---
 
 # Saga Orchestration

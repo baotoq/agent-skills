@@ -5,6 +5,12 @@ license: MIT
 metadata:
     author: SerKo <https://github.com/serkodev>
     version: "1.0"
+    domain: frontend
+    triggers: VueUse, composables, Vue utilities, reactive utilities
+    role: specialist
+    scope: implementation
+    output-format: code
+    related-skills: vueuse, vue-best-practices
 compatibility: Requires Vue 3 (or above) or Nuxt 3 (or above) project
 ---
 

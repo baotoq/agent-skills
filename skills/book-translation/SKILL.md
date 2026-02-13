@@ -1,6 +1,15 @@
 ---
 name: book-translation
 description: Translate "The Interactive Book of Prompting" chapters and UI strings to a new language
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: frontend
+  triggers: book translation, i18n, locale, MDX translation, prompts.chat
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: prompt-engineering-patterns
 ---
 
 # Book Translation Skill

@@ -5,6 +5,13 @@ description: Monitor portfolio risk, R-multiples, and position limits. Creates
   PROACTIVELY for risk assessment, trade tracking, or portfolio protection.
 metadata:
   model: inherit
+  version: "1.0.0"
+  domain: trading
+  triggers: portfolio risk, R-multiples, position limits, risk monitoring
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: risk-management, risk-metrics-calculation, quant-analyst
 ---
 
 ## Use this skill when

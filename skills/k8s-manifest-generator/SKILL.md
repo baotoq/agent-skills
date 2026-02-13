@@ -1,6 +1,15 @@
 ---
 name: k8s-manifest-generator
 description: Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets following best practices and security standards. Use when generating Kubernetes YAML manifests, creating K8s resources, or implementing production-grade Kubernetes configurations.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: infrastructure
+  triggers: Kubernetes manifests, K8s YAML, Deployment, Service, ConfigMap, Secret, PVC
+  role: specialist
+  scope: infrastructure
+  output-format: manifests
+  related-skills: kubernetes-specialist, kubernetes-architect
 ---
 
 # Kubernetes Manifest Generator

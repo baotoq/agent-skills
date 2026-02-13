@@ -8,6 +8,13 @@ description: Expert database optimizer specializing in modern performance
   optimization, performance issues, or scalability challenges.
 metadata:
   model: inherit
+  version: "1.0.0"
+  domain: architecture
+  triggers: database optimization, query performance, indexing, slow queries
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: database-architect, database-design, efcore-patterns
 ---
 
 ## Use this skill when

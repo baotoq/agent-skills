@@ -1,6 +1,15 @@
 ---
 name: test-driven-development
 description: Use when implementing any feature or bugfix, before writing implementation code
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: TDD, test-driven development, red-green-refactor, test first
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: unit-testing-test-generate, e2e-testing-patterns
 ---
 
 # Test-Driven Development (TDD)

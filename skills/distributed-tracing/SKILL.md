@@ -1,6 +1,15 @@
 ---
 name: distributed-tracing
 description: Implement distributed tracing with Jaeger and Tempo to track requests across microservices and identify performance bottlenecks. Use when debugging microservices, analyzing request flows, or implementing observability for distributed systems.
+metadata:
+  model: inherit
+  version: "1.0.0"
+  domain: infrastructure
+  triggers: distributed tracing, Jaeger, Tempo, OpenTelemetry, request tracing, observability
+  role: specialist
+  scope: infrastructure
+  output-format: code
+  related-skills: grafana-dashboards, prometheus-configuration
 ---
 
 # Distributed Tracing

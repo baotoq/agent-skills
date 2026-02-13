@@ -1,6 +1,15 @@
 ---
 name: prompt-lookup
 description: Activates when the user asks about AI prompts, needs prompt templates, wants to search for prompts, or mentions prompts.chat. Use for discovering, retrieving, and improving prompts.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: AI prompts, prompt templates, prompt search, prompts.chat, prompt discovery
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: prompt-engineering-patterns
 ---
 
 When the user needs AI prompts, prompt templates, or wants to improve their prompts, use the prompts.chat MCP server to help them.

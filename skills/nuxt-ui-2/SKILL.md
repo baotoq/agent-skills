@@ -1,6 +1,15 @@
 ---
 name: nuxt-ui-2
 description: Build UIs with @nuxt/ui v4 — 125+ accessible Vue components with Tailwind CSS theming. Use when creating interfaces, customizing themes to match a brand, building forms, or composing layouts like dashboards, docs sites, and chat interfaces.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: frontend
+  triggers: Nuxt UI, @nuxt/ui, Vue components, Tailwind CSS, Reka UI, form builder, dashboard
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: nuxt, nuxt-ui, vue-best-practices
 ---
 
 # Nuxt UI

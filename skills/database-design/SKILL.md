@@ -2,6 +2,15 @@
 name: database-design
 description: Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases.
 allowed-tools: Read, Write, Edit, Glob, Grep
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: database design, schema design, indexing, ORM, serverless database, SQL
+  role: architect
+  scope: system-design
+  output-format: code
+  related-skills: database-architect, database-optimizer
 ---
 
 # Database Design

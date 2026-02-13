@@ -1,6 +1,15 @@
 ---
 name: api-design-principles
 description: Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, reviewing API specifications, or establishing API design standards.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: API design, REST, GraphQL, API standards, API specification, API review
+  role: architect
+  scope: system-design
+  output-format: architecture
+  related-skills: api-patterns, api-security-best-practices
 ---
 
 # API Design Principles

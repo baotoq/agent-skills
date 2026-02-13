@@ -1,6 +1,15 @@
 ---
 name: architecture-decision-records
 description: Write and maintain Architecture Decision Records (ADRs) following best practices for technical decision documentation. Use when documenting significant technical decisions, reviewing past architectural choices, or establishing decision processes.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: ADR, architecture decision record, technical decision, decision documentation
+  role: architect
+  scope: system-design
+  output-format: architecture
+  related-skills: architecture-patterns
 ---
 
 # Architecture Decision Records

@@ -1,6 +1,15 @@
 ---
 name: domain-analysis
 description: Identifies subdomains and suggests bounded contexts in any codebase following DDD Strategic Design. Use when analyzing domain boundaries, identifying business subdomains, assessing domain cohesion, mapping bounded contexts, or when the user asks about DDD strategic design, domain analysis, or subdomain classification.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: DDD, domain-driven design, subdomain, bounded context, strategic design, domain analysis
+  role: architect
+  scope: system-design
+  output-format: architecture
+  related-skills: architecture-patterns, cqrs-implementation, event-sourcing-architect
 ---
 
 # Subdomain Identification & Bounded Context Analysis

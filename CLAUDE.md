@@ -37,7 +37,7 @@ description: When to use this skill. Include trigger phrases.
 license: MIT
 metadata:
   version: "1.0.0"
-  domain: frontend|language|infrastructure|architecture|trading
+  domain: frontend|language|infrastructure|architecture|trading|backend|tests
   triggers: comma, separated, keywords
   role: specialist|architect
   scope: implementation|system-design|infrastructure

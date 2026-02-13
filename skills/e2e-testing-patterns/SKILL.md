@@ -1,6 +1,15 @@
 ---
 name: e2e-testing-patterns
 description: Master end-to-end testing with Playwright and Cypress to build reliable test suites that catch bugs, improve confidence, and enable fast deployment. Use when implementing E2E tests, debugging flaky tests, or establishing testing standards.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: frontend
+  triggers: E2E testing, Playwright, Cypress, end-to-end, test automation, flaky tests
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: test-driven-development, unit-testing-test-generate
 ---
 
 # E2E Testing Patterns

@@ -7,6 +7,13 @@ description: Expert .NET backend architect specializing in C#, ASP.NET Core,
   architecture decisions.
 metadata:
   model: sonnet
+  version: "1.0.0"
+  domain: architecture
+  triggers: .NET architecture, ASP.NET Core, C# architecture, clean architecture, DDD
+  role: architect
+  scope: system-design
+  output-format: architecture
+  related-skills: dotnet-core-expert, csharp-developer, backend-architect
 ---
 
 ## Use this skill when

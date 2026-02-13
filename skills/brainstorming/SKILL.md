@@ -5,6 +5,14 @@ description: >
   (features, components, architecture, behavior changes, or functionality).
   This skill transforms vague ideas into validated designs through
   disciplined, incremental reasoning and collaboration.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: brainstorm, ideation, design thinking, feature planning, creative work
+  role: architect
+  scope: system-design
+  output-format: architecture
 ---
 
 # Brainstorming Ideas Into Designs

@@ -1,6 +1,15 @@
 ---
 name: dotnet-backend-patterns
 description: Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise applications. Covers async/await, dependency injection, Entity Framework Core, Dapper, configuration, caching, and testing with xUnit. Use when developing .NET backends, reviewing C# code, or designing API architectures.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: language
+  triggers: .NET, C#, ASP.NET Core, Entity Framework Core, Dapper, dependency injection, xUnit, API
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: csharp-developer, dotnet-core-expert, efcore-patterns
 ---
 
 # .NET Backend Development Patterns

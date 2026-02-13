@@ -1,6 +1,15 @@
 ---
 name: event-store-design
 description: Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: event store, event sourcing, event persistence, event storage, EventStoreDB
+  role: architect
+  scope: system-design
+  output-format: architecture
+  related-skills: event-sourcing-architect, cqrs-implementation
 ---
 
 # Event Store Design

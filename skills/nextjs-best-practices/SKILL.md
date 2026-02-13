@@ -2,6 +2,15 @@
 name: nextjs-best-practices
 description: Next.js App Router principles. Server Components, data fetching, routing patterns.
 allowed-tools: Read, Write, Edit, Glob, Grep
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: frontend
+  triggers: Next.js, App Router, Server Components, data fetching, routing
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: nextjs-app-router-patterns, nextjs-developer, react-expert
 ---
 
 # Next.js Best Practices

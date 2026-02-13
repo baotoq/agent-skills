@@ -9,6 +9,14 @@ platforms: [github-copilot-cli, claude-code, codex]
 category: meta
 tags: [automation, scaffolding, skill-creation, meta-skill]
 risk: safe
+license: MIT
+metadata:
+  version: "1.3.0"
+  domain: architecture
+  triggers: create skill, build skill, custom skill, skill creation, scaffolding
+  role: specialist
+  scope: implementation
+  output-format: code
 ---
 
 # skill-creator

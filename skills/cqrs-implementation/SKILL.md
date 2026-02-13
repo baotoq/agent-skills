@@ -1,6 +1,15 @@
 ---
 name: cqrs-implementation
 description: Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: CQRS, Command Query Responsibility Segregation, read model, write model, event sourcing
+  role: architect
+  scope: system-design
+  output-format: code
+  related-skills: event-sourcing-architect, saga-orchestration, architecture-patterns
 ---
 
 # CQRS Implementation

@@ -1,6 +1,15 @@
 ---
 name: prometheus-configuration
 description: Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and applications. Use when implementing metrics collection, setting up monitoring infrastructure, or configuring alerting systems.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: infrastructure
+  triggers: Prometheus, metrics, monitoring, alerting, scrape configuration, recording rules
+  role: specialist
+  scope: infrastructure
+  output-format: code
+  related-skills: grafana-dashboards, distributed-tracing
 ---
 
 # Prometheus Configuration

@@ -6,6 +6,13 @@ description: Build financial models, backtest trading strategies, and analyze
   risk analysis.
 metadata:
   model: inherit
+  version: "1.0.0"
+  domain: trading
+  triggers: quantitative analysis, financial models, backtesting, statistical analysis
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: trading-expert, risk-management, backtesting-frameworks
 ---
 
 ## Use this skill when

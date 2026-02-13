@@ -1,6 +1,15 @@
 ---
 name: architecture-patterns
 description: Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design. Use when architecting complex backend systems or refactoring existing applications for better maintainability.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: Clean Architecture, Hexagonal Architecture, DDD, Domain-Driven Design, backend architecture
+  role: architect
+  scope: system-design
+  output-format: architecture
+  related-skills: architecture-decision-records, cqrs-implementation, event-sourcing-architect
 ---
 
 # Architecture Patterns

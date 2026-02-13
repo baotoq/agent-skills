@@ -3,6 +3,15 @@ name: radix-ui-design-system
 description: Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for production-grade UI libraries.
 risk: safe
 source: self
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: frontend
+  triggers: Radix UI, design system, headless components, accessible components, compound components
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: tailwind-design-system, react-expert
 ---
 
 # Radix UI Design System

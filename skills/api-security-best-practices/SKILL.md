@@ -1,6 +1,15 @@
 ---
 name: api-security-best-practices
 description: "Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities"
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: API security, authentication, authorization, input validation, rate limiting, OWASP, JWT, OAuth
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: api-design-principles, api-patterns
 ---
 
 # API Security Best Practices

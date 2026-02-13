@@ -1,6 +1,15 @@
 ---
 name: skill-lookup
 description: Activates when the user asks about Agent Skills, wants to find reusable AI capabilities, needs to install skills, or mentions skills for Claude. Use for discovering, retrieving, and installing skills.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: agent skills, skill search, skill install, skill discovery, Claude skills
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: skill-creator
 ---
 
 When the user needs Agent Skills, wants to extend Claude's capabilities, or is looking for reusable AI agent components, use the prompts.chat MCP server.

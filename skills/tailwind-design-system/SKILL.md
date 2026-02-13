@@ -1,6 +1,15 @@
 ---
 name: tailwind-design-system
 description: Build scalable design systems with Tailwind CSS, design tokens, component libraries, and responsive patterns. Use when creating component libraries, implementing design systems, or standardizing UI patterns.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: frontend
+  triggers: Tailwind CSS, design system, design tokens, component library, responsive patterns
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: tailwind-patterns, radix-ui-design-system
 ---
 
 # Tailwind Design System

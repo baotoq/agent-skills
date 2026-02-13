@@ -1,6 +1,15 @@
 ---
 name: ccxt-csharp
 description: CCXT cryptocurrency exchange library for C# and .NET developers. Covers both REST API (standard) and WebSocket API (real-time). Helps install CCXT, connect to exchanges, fetch market data, place orders, stream live tickers/orderbooks, handle authentication, and manage errors in .NET projects. Use when working with crypto exchanges in C# applications, trading systems, or financial software. Supports .NET Standard 2.0+.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: trading
+  triggers: CCXT, cryptocurrency, exchange, C#, .NET, crypto trading, market data, WebSocket
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: trading-expert, csharp-developer
 ---
 
 # CCXT for C#

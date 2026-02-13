@@ -1,6 +1,14 @@
 ---
 name: context7-auto-research
 description: Automatically fetch latest library/framework documentation for Claude Code via Context7 API
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: infrastructure
+  triggers: Context7, documentation, library docs, framework docs, auto-research
+  role: specialist
+  scope: implementation
+  output-format: code
 ---
 
 # context7-auto-research

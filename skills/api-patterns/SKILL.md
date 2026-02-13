@@ -2,6 +2,15 @@
 name: api-patterns
 description: API design principles and decision-making. REST vs GraphQL vs tRPC selection, response formats, versioning, pagination.
 allowed-tools: Read, Write, Edit, Glob, Grep
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: API patterns, REST, GraphQL, tRPC, versioning, pagination, response format
+  role: architect
+  scope: system-design
+  output-format: code
+  related-skills: api-design-principles, api-security-best-practices
 ---
 
 # API Patterns

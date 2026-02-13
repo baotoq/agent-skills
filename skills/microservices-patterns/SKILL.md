@@ -1,6 +1,15 @@
 ---
 name: microservices-patterns
 description: Design microservices architectures with service boundaries, event-driven communication, and resilience patterns. Use when building distributed systems, decomposing monoliths, or implementing microservices.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: architecture
+  triggers: microservices, service boundaries, event-driven, distributed systems, monolith decomposition
+  role: architect
+  scope: system-design
+  output-format: architecture
+  related-skills: microservices-architect, saga-orchestration, cqrs-implementation
 ---
 
 # Microservices Patterns

@@ -11,6 +11,14 @@ category: framework
 bundle: [typescript-type-expert, typescript-build-expert]
 displayName: TypeScript
 color: blue
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: language
+  triggers: TypeScript, JavaScript, type-level programming, monorepo, migration, build performance
+  role: specialist
+  scope: implementation
+  output-format: code
 ---
 
 # TypeScript Expert
