@@ -1,7 +1,16 @@
 ---
 name: telegram-bot-builder
 description: "Expert in building Telegram bots that solve real problems - from simple automation to complex AI-powered bots. Covers bot architecture, the Telegram Bot API, user experience, monetization strategies, and scaling bots to thousands of users. Use when: telegram bot, bot api, telegram automation, chat bot telegram, tg bot."
+license: Apache-2.0
 source: vibeship-spawner-skills (Apache 2.0)
+metadata:
+  version: "1.0.0"
+  domain: backend
+  triggers: telegram bot, bot api, telegram automation, chat bot, tg bot, Telegraf, grammY, aiogram, inline keyboard, bot monetization
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: microservices-architect
 ---
 
 # Telegram Bot Builder

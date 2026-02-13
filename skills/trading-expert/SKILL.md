@@ -1,13 +1,15 @@
 ---
 name: trading-expert
-version: 1.0.0
 description: Expert-level algorithmic trading, market systems, quantitative analysis, and trading platforms
+license: MIT
 metadata:
   version: "1.0.0"
   domain: trading
   triggers: trading, algorithmic-trading, quant, markets, finance, hft
   role: specialist
   scope: implementation
+  output-format: code
+  related-skills: risk-management
 ---
 
 # Trading Expert

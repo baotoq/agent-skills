@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agent-skills",
+  "owner": {
+    "name": "baotoq"
+  },
+  "metadata": {
+    "description": "Curated collection of agent skills for .NET, React, Kubernetes, trading, and more",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": ".",
+      "description": "Curated collection of agent skills for .NET, React, Kubernetes, trading, and more",
+      "version": "1.0.0",
+      "author": {
+        "name": "baotoq"
+      },
+      "license": "MIT",
+      "category": "development"
+    }
+  ]
+}

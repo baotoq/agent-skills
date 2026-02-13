@@ -1,0 +1,10 @@
+{
+  "name": "agent-skills",
+  "description": "Curated collection of agent skills for .NET, React, Kubernetes, trading, and more",
+  "version": "1.0.0",
+  "author": {
+    "name": "baotoq"
+  },
+  "repository": "https://github.com/baotoq/agent-skills",
+  "license": "MIT"
+}

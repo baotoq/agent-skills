@@ -1,6 +1,15 @@
 ---
 name: risk-management
 description: Risk management rules learned from competition outcomes. Use when sizing positions or setting stop-losses.
+license: MIT
+metadata:
+  version: "1.0.0"
+  domain: trading
+  triggers: risk management, position sizing, stop-loss, risk-reward, drawdown, portfolio risk, trade sizing, money management
+  role: specialist
+  scope: implementation
+  output-format: code
+  related-skills: trading-expert
 ---
 
 # Risk Management
