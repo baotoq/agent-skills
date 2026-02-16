@@ -15,11 +15,15 @@ Others install skills from this repo via:
 ## Repo Structure
 
 ```
+.agents/
+  skills/              # Agent-specific skill overrides
+.claude/
+  skills/              # Claude Code local skill overrides
 .claude-plugin/
-  marketplace.json   # Claude Code marketplace manifest (lists plugins)
-  plugin.json        # Plugin manifest (name, version, description)
+  marketplace.json     # Claude Code marketplace manifest (lists plugins)
+  plugin.json          # Plugin manifest (name, version, description)
 skills/
-  {skill-name}/
+  {domain}-{topic}/
     SKILL.md           # Required: skill definition with YAML frontmatter
     references/        # Optional: detailed topic guides
     resources/         # Optional: implementation resources (dotnet-aspire uses this)
@@ -37,7 +41,7 @@ description: When to use this skill. Include trigger phrases.
 license: MIT
 metadata:
   version: "1.0.0"
-  domain: frontend|language|infrastructure|architecture|trading|backend|tests
+  domain: frontend|language|infrastructure|architecture|trading|backend|tests|observability|design|tools
   triggers: comma, separated, keywords
   role: specialist|architect
   scope: implementation|system-design|infrastructure
@@ -56,8 +60,16 @@ Three patterns are used for supplementary content:
 - **resources/**: Implementation resources (e.g., `dotnet-aspire/resources/components.md`). Same concept, different naming.
 - **rules/**: Individual rule files with their own YAML frontmatter (`title`, `impact`, `tags`). Used by `vercel-react-best-practices` (57 rules) and `vercel-composition-patterns` (8 rules). Skills using rules also have a compiled `AGENTS.md`.
 
+## Naming Convention
+
+All skill directories use a domain prefix: `{domain}-{topic}`. Current prefixes:
+
+`api-` `architecture-` `database-` `design-` `dotnet-` `frontend-` `golang-` `k8s-` `kubernetes-` `microservices-` `nextjs-` `nuxt-` `observability-` `prompt-` `react-` `tailwind-` `testing-` `tools-` `trading-` `typescript-` `vercel-` `vue-` `vueuse-`
+
+The `name` field in SKILL.md frontmatter **must match** the directory name exactly.
+
 ## Adding a New Skill
 
-1. Create `skills/{skill-name}/SKILL.md` with valid frontmatter
+1. Create `skills/{domain}-{topic}/SKILL.md` with valid frontmatter using a domain prefix
 2. Optionally add `references/` or `rules/` subdirectory for detailed content
 3. No changes needed to `marketplace.json` or `plugin.json` — skill discovery is automatic based on directory scanning
