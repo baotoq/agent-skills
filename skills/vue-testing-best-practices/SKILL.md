@@ -10,7 +10,7 @@ metadata:
   role: specialist
   scope: implementation
   output-format: code
-  related-skills: vue-best-practices, vitest, vue-pinia-best-practices
+  related-skills: vue-best-practices, testing-vitest, vue-pinia-best-practices
 ---
 
 Vue.js testing best practices, patterns, and common gotchas.

@@ -9,7 +9,7 @@ metadata:
   role: specialist
   scope: implementation
   output-format: code
-  related-skills: csharp-developer, dotnet-core-expert, dotnet-ddd, testcontainers-integration-tests
+  related-skills: csharp-developer, dotnet-core-expert, dotnet-ddd, dotnet-testcontainers
 ---
 
 # Entity Framework Core Patterns

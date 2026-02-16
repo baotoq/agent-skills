@@ -9,7 +9,7 @@ metadata:
   role: specialist
   scope: implementation
   output-format: code
-  related-skills: tailwind-patterns, radix-ui-design-system
+  related-skills: tailwind-patterns, frontend-radix-ui-design-system
 ---
 
 # Tailwind Design System

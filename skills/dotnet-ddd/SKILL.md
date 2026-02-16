@@ -9,7 +9,7 @@ metadata:
   role: architect
   scope: implementation
   output-format: code
-  related-skills: domain-analysis, architecture-patterns, csharp-developer, dotnet-core-expert
+  related-skills: architecture-domain-analysis, architecture-patterns, csharp-developer, dotnet-core-expert
 ---
 
 # Domain-Driven Design in .NET

@@ -9,7 +9,7 @@ metadata:
   role: specialist
   scope: implementation
   output-format: code
-  related-skills: vue-best-practices, nuxt-ui, vite, vue-router-best-practices, vue-pinia-best-practices
+  related-skills: vue-best-practices, nuxt-ui, frontend-vite, vue-router-best-practices, vue-pinia-best-practices
 ---
 
 # Nuxt 4+ Development

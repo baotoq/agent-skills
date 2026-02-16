@@ -10,7 +10,7 @@ metadata:
   role: specialist
   scope: implementation
   output-format: code
-  related-skills: vue-best-practices, vite
+  related-skills: vue-best-practices, frontend-vite
 ---
 
 Vue JSX best practices and differences from React JSX.

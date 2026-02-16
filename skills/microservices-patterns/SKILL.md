@@ -9,7 +9,7 @@ metadata:
   role: architect
   scope: system-design
   output-format: architecture
-  related-skills: microservices-architect, saga-orchestration, cqrs-implementation
+  related-skills: microservices-architect, architecture-saga-orchestration, architecture-cqrs-implementation
 ---
 
 # Microservices Patterns

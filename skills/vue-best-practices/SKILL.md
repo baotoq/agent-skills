@@ -10,7 +10,7 @@ metadata:
   role: specialist
   scope: implementation
   output-format: code
-  related-skills: vue-router-best-practices, vue-pinia-best-practices, vue-testing-best-practices, vueuse, vite
+  related-skills: vue-router-best-practices, vue-pinia-best-practices, vue-testing-best-practices, vueuse, frontend-vite
 ---
 
 # Vue Best Practices Workflow

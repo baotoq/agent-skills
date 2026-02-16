@@ -9,7 +9,7 @@ metadata:
   role: specialist
   scope: implementation
   output-format: code
-  related-skills: nuxt, vue-best-practices, web-design-guidelines
+  related-skills: nuxt, vue-best-practices, design-web-guidelines
 ---
 
 # Nuxt UI v4

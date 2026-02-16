@@ -9,7 +9,7 @@ metadata:
   role: architect
   scope: system-design
   output-format: architecture
-  related-skills: architecture-decision-records, cqrs-implementation, event-sourcing-architect
+  related-skills: architecture-decision-records, architecture-cqrs-implementation, architecture-event-sourcing
 ---
 
 # Architecture Patterns
