@@ -154,6 +154,35 @@ Instructions for the agent...
 
 2. Optionally add supplementary content in `references/`, `resources/`, or `rules/` subdirectories.
 
+## External Plugin
+
+```json
+{
+  "enabledPlugins": {
+    "context7@claude-plugins-official": true,
+
+    "claude-code-setup@claude-plugins-official": true,
+    "claude-md-management@claude-plugins-official": true,
+    "greptile@claude-plugins-official": true,
+
+    "playwright@claude-plugins-official": true,
+
+    "github@claude-plugins-official": true,
+    "commit-commands@claude-plugins-official": true,
+
+    "csharp-lsp@claude-plugins-official": true,
+    "gopls-lsp@claude-plugins-official": true,
+    "typescript-lsp@claude-plugins-official": true,
+    "frontend-design@claude-plugins-official": true,
+    "superpowers@claude-plugins-official": true,
+    "code-simplifier@claude-plugins-official": true,
+    "code-review@claude-plugins-official": true,
+
+    "feature-dev@claude-plugins-official": true
+  }
+}
+```
+
 ## License
 
 MIT
