@@ -10,7 +10,7 @@ metadata:
   role: specialist
   scope: implementation
   output-format: code
-  related-skills: csharp-developer, efcore-patterns, dotnet-core-expert
+  related-skills: csharp-developer, efcore-patterns, dotnet-core-expert, dotnet-backend-patterns
 ---
 
 # Integration Testing with TestContainers
