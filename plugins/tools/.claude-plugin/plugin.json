@@ -1,0 +1,8 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "Browser debugging, commit messages, diagrams and skill discovery",
+  "author": {
+    "name": "Bao To"
+  }
+}
