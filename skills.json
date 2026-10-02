@@ -134,6 +134,11 @@
           "name": "find-skills",
           "repo": "vercel-labs/skills",
           "path": "skills/find-skills"
+        },
+        {
+          "name": "karpathy-guidelines",
+          "repo": "multica-ai/andrej-karpathy-skills",
+          "path": "skills/karpathy-guidelines"
         }
       ]
     }

@@ -7,7 +7,7 @@ skills from several upstream repos into three plugins:
 |---|---|
 | `dotnet` | C#/.NET coding, testing, performance, ASP.NET Core |
 | `azure` | Aspire, Cosmos DB, Microsoft Foundry, cloud design patterns |
-| `tools` | Chrome DevTools, commit messages, Excalidraw diagrams, skill discovery |
+| `tools` | Chrome DevTools, commit messages, Excalidraw diagrams, skill discovery, Karpathy coding guidelines |
 
 `skills.json` lists every skill and where it comes from.
 

@@ -9,15 +9,16 @@
       "version": "1.0.0"
     },
     "tools": {
-      "hash": "a691f11b103ef584a81719b75dcda26189a10726",
-      "version": "1.0.0"
+      "hash": "2d4bdeb7dcb3354be0e95bf7dfe745c4f2469ed9",
+      "version": "1.0.1"
     }
   },
   "repos": {
     "affaan-m/ecc": "ef648e01899ba3e8dc6371642deaaf64b4477775",
-    "dotnet/skills": "973cffbcdbae02557cc68ad0d41b8f20d60cfa03",
+    "dotnet/skills": "bf64de49c843fc52467f80aa0458fc432dedf8c7",
     "github/awesome-copilot": "143a3d976b3c1603cc8932984d5e1f28501cb5fc",
     "microsoft/azure-skills": "bff93703c0b9665feee3f128143d23da0f6083c3",
+    "multica-ai/andrej-karpathy-skills": "2c606141936f1eeef17fa3043a72095b4765b9c2",
     "vercel-labs/skills": "3694740352eeef5cdd689af694c485f1ff62eec3",
     "wshobson/agents": "156b7a5e7a8b93642628a339ee4039c925b34c7f"
   }
